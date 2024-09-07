@@ -66,8 +66,8 @@ let dado_categorias = [
     },
     {
         titulo: "FII (Fundos Imobiliários)",
-        descricao: "Fundos Imobiliários (FII) são investimentos em que você compra partes de grandes imóveis, como shopping centers, prédios comerciais e outros. Ao investir em FIIs, você recebe uma parte dos aluguéis que esses imóveis geram. Os FIIs costumam ser uma opção de investimento para quem quer renda passiva, mas também têm riscos de variação no mercado. Como qualquer outro investimento de renda variável, os ganhos com FIIs precisam ser declarados no Imposto de Renda.",
-        descricao_sim: "Simplificando: você investe em imóveis grandes e recebe uma parte dos aluguéis, mas também precisa declarar no imposto.",
+        descricao: "Fundos Imobiliários (FII) são investimentos em que você compra partes de grandes imóveis, como shopping centers, prédios comerciais e outros. Ao investir em FIIs, você recebe uma parte dos aluguéis que esses imóveis geram os ALUGUEIS são INSENTOS DE IMPOSTO. Os FIIs costumam ser uma opção de investimento para quem quer renda passiva, mas também têm riscos de variação no mercado. Como qualquer outro investimento de renda variável, os ganhos com FIIs precisam ser declarados no Imposto de Renda.",
+        descricao_sim: "Simplificando: você investe em imóveis grandes e recebe uma parte dos aluguéis, mas também precisa declarar no imposto somente na venda, o Dividendo Mensal que pagam é INSENTO DE IMPOSTO",
         link: "https://www.gov.br/investidor/pt-br/investir/tipos-de-investimentos/fundos-de-investimentos-imobiliarios-fii", 
         tags: "variável variavel"
     },
